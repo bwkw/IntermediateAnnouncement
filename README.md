@@ -1,2 +1,2 @@
-# Intermediate_announcement
-中間発表用のGas
+# アプリの概要
+インターン先で使った、SS操作用のGAS
